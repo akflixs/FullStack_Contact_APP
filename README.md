@@ -78,7 +78,7 @@ This project serves as a practical example of a full-stack application implement
 ## File Structure
 
 ```
-FullStack_Contact_App/
+FullStack_Contacts_App/
 ├── backend/
 │   ├── instance/
 │   │   └── mydatabase.db
