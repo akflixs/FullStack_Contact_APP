@@ -1,4 +1,4 @@
-# FullStack Contact App
+# FullStack Contacts App
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT">
